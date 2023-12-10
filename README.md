@@ -28,6 +28,9 @@ The analysis focused on:
 
 -- Married customers with children represent an opportunity
 
+<img width="995" alt="Screenshot 2023-12-10 at 4 27 32 PM" src="https://github.com/omotuno/excel_bike_sales_project_/assets/65866718/cddded0d-79d2-4015-914d-ebc5ee7afc3b">
+
+
 
 ### Recommendations
 
